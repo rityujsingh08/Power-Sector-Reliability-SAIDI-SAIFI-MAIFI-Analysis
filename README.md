@@ -1,1 +1,1 @@
-# Power-Sector-Reliability-SAIDI-SAIFI-MAIFI-Analysis-
+# Power-Sector-Reliability-SAIDI-SAIFI-MAIFI-Analysis
